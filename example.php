@@ -1,5 +1,6 @@
 <?php
-require('src/duniaGames.php');
+require __DIR__ . '/vendor/autoload.php';
+use Namdevel\DuniaGames;
 
 $a = new DuniaGames();
 
