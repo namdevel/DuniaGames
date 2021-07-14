@@ -1,0 +1,19 @@
+{
+    "name": "user/dunia-games",
+    "description": "Un-official API to Check Username / Nickname By Account ID",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Namdevel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "namdevel",
+            "email": "namdevel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
