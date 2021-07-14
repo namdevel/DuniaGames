@@ -1,4 +1,5 @@
 <?php
+namespace Namdevel;
 /*
 @ Unofficial Dunia Games PHP Class
 @ Author : namdevel
